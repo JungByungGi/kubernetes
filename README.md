@@ -1,5 +1,5 @@
-# kubernetes-start
+# kubernetes
 
-## reference : https://www.youtube.com/watch?v=6n5obRKsCRQ
+## reference : inflearn lecture(kubernetes master for DevOps)
 
-* This repository is for studying kubernetes-beginning
+* This repository is for Docker and Kubernetes
